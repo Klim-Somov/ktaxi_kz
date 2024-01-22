@@ -1,0 +1,36 @@
+.partner_img{
+    img{
+    }
+}
+.partner_offer{
+    margin-bottom: 150px;
+}
+.crm_section .crm_block#partner_crm{
+    margin-bottom: 0;
+}
+.secret#partner_secret{
+    background: unset;
+    padding: 140px 0 0px 0;
+}
+.tarif#partner_tarif {
+    padding: 140px 0 0px 0;
+    .tarif_wrapper{
+        margin-bottom: 0;
+    }
+}
+.hero#hero_partner .hero_left_title{
+    margin-bottom: 130px;
+    font-size: 60px;
+    padding-right: 40px;
+}
+.hero#hero_partner {
+    .partner_img{
+        height: 100%;
+        img {
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
+        }
+    }
+     
+}

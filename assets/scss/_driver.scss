@@ -1,0 +1,131 @@
+#driver_hero {
+  .driver_wrapper {
+    display: flex;
+    justify-content: flex-end;
+    margin-right: 10px;
+  }
+  .driver_hero_item {
+    display: inline-flex;
+    align-items: center;
+    gap: 12px;
+    padding: 8px 14px 10px 8px;
+    border-radius: 40px 60px 60px 60px;
+    border: 1px solid #e2e2e2;
+    background: rgba(255, 255, 255, 0.6);
+    backdrop-filter: blur(30px);
+    margin-left: auto;
+    .driver_text {
+      color: #040403;
+      font-size: 20px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: 30px; /* 150% */
+      max-width: 370px;
+    }
+  }
+
+  .extra_item-driver {
+    width: 274px;
+  }
+  .hero_block {
+    position: relative;
+    margin-bottom: 20px;
+    .driver_phone {
+      position: absolute;
+      bottom: 0;
+    }
+  }
+  .hero_left_title {
+    margin-bottom: 90px;
+  }
+  .driver_hero_bottom {
+    padding: 40px 65px 37px 135px;
+    border-radius: 50px;
+    background: #fdfdfd;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    .driver_hero_desc {
+      color: #222328;
+      font-size: 24px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      max-width: 515px;
+    }
+    .driver_apps {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      flex-wrap: wrap;
+
+    }
+  }
+}
+// advantages
+.advantages {
+  padding-bottom: 140px;
+  .advantages_title {
+    margin-bottom: 60px;
+    color: #222328;
+    font-size: 50px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    max-width: 1192px;
+  }
+  .advantages_block {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 20px;
+  }
+  .advantage_item {
+    padding: 18px 18px 30px 30px;
+    background: #fdfdfd;
+    border-radius: 30px;
+    height: 435px;
+    .advan_img {
+      text-align: end;
+    }
+    .advan_name {
+      color: #222328;
+      font-size: 32px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+      margin-bottom: 10px;
+    }
+    .advan_desc {
+      color: #525a62;
+      font-size: 16px;
+      font-style: normal;
+      font-weight: 400;
+      line-height: normal;
+    }
+  }
+  .advantage_item1 {
+    .advan_img {
+      margin-right: 25px;
+      margin-bottom: -30px;
+      text-align: end;
+    }
+  }
+  .advantage_item2 {
+    .advan_img {
+      margin-bottom: 50px;
+    }
+  }
+  .advantage_item3 {
+    padding: 15px 27px 30px 30px;
+    .advan_img {
+      margin-bottom: 27px;
+    }
+  }
+  .advantage_item4 {
+    padding: 15px 40px 30px 30px;
+    .advan_img {
+      margin-bottom: 5px;
+    }
+  }
+}

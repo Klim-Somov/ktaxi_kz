@@ -1,0 +1,54 @@
+.find{
+    margin-bottom: 20px;
+    .find_block{
+        margin-top: 80px;
+        background: #222328;
+        border-radius: 25px;
+        padding: 110px 0 110px 70px;
+        display: flex;
+        align-items: center;
+        gap: 225px;
+        .find_right{
+            .find_number{
+                color: #FFF;
+                font-family: Golos;
+                font-size: 175px;
+                font-style: normal;
+                font-weight: 500;
+                line-height: normal;
+            }
+            .find_name{
+                color: #FFF;
+                font-size: 32px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                margin-bottom: 40px;
+            }
+            .find_desc{
+                color: #FFF;
+                font-size: 18px;
+                font-style: normal;
+                font-weight: 400;
+                line-height: normal;
+                margin-bottom: 25px;
+            }
+            .find_btn{
+                a{
+                    padding: 34px 55px;
+                    color: #F6F6F9;
+                    font-size: 20px;
+                    font-style: normal;
+                    font-weight: 500;
+                    line-height: normal;
+                    border-radius: 60px;
+                    background: #5F79EA;
+                    transition: all ease-in .2s;
+                    &:hover{
+                        background: #7990F9;
+                    }
+                }
+            }
+        }
+    }
+}

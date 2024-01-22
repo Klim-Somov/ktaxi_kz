@@ -1,0 +1,1502 @@
+@media (max-width: 1920px) {
+  .container {
+    max-width: 1620px;
+    margin: 0 auto;
+    padding: 0;
+  }
+  .advantages .advantage_item {
+    height: 435px;
+  }
+}
+
+@media (max-width: 1620px) {
+  .container {
+    max-width: 1320px;
+  }
+  .hero .hero_right .right_top {
+    padding: 40px 30px 165px 30px;
+  }
+  .hero .hero_right .person_img {
+    bottom: 10px;
+    img {
+      width: 70%;
+    }
+  }
+  .advice0 .item_img img {
+    width: 117%;
+  }
+  .advice1 .item_img img {
+    width: 100%;
+  }
+  .advice2 .item_img img {
+    width: 145%;
+  }
+  .hero .hero_left .hero_left_title,
+  .hero .hero_left .left_bold_title {
+    font-size: 60px;
+  }
+  .advice .advice_block .advice_item_desc {
+    font-size: 27px;
+  }
+  .service .service_block .service_top {
+    padding: 0 72px 0 70px;
+  }
+  .service .service_block .service_bottom {
+    padding-left: 100px;
+  }
+  .platform .white_block {
+    right: -90px;
+  }
+  .about .about_advice .about_item3 {
+    margin-left: 302px;
+  }
+  .referal_img img {
+    width: 100%;
+  }
+  .referal .referal_item {
+    padding: 20px 0 0 20px;
+  }
+  .crm_section .crm_main_top {
+    padding: 0 60px 0 60px;
+  }
+  .crm_section .crm_item3 {
+    position: relative;
+    z-index: 4;
+  }
+  .secret .secret_block .secret_title {
+    font-size: 24px;
+  }
+  .document .document_item {
+    width: 16%;
+  }
+  .tarif .tarif_block .tarif_item {
+    width: 60.1%;
+  }
+  .partner_img {
+    height: 100%;
+    img {
+      width: 100%;
+    }
+  }
+  .advantages .advantage_item3 .advan_img {
+    margin-bottom: 27px;
+  }
+  .advantages .advantage_item .advan_name {
+    font-size: 30px;
+  }
+
+  .hero#hero_partner .hero_left_title {
+    padding-right: 40px;
+    font-size: 47px;
+  }
+  .hero#hero_partner {
+    .hero_left_title {
+      padding-right: 40px;
+      font-size: 60px;
+    }
+  }
+  #driver_hero .hero_left_title {
+    margin-bottom: 90px;
+    font-size: 40px;
+  }
+  #driver_hero .driver_wrapper {
+    margin-right: 30px;
+  }
+  .driver_phone > img {
+    width: 80%;
+  }
+  #driver_hero .driver_hero_bottom {
+    padding: 40px 65px 37px 50px;
+  }
+
+  .driver_hero_bottom .driver_apps {
+    flex-direction: column;
+  }
+}
+@media (max-width: 1400px) {
+  .container {
+    max-width: 1140px;
+  }
+  .find_left img {
+    width: 90%;
+  }
+  .document .document_title_block .document_title {
+    font-size: 36px;
+  }
+  .advice .advice_block .advice_item,
+  .advice .advice_block .advice_location {
+    min-height: 380px;
+  }
+  .location_img img {
+    width: 75%;
+  }
+  .form_number {
+    img {
+      width: 130%;
+    }
+  }
+  .secret .secret_block .secret_item3 {
+    .secret_img {
+      img {
+        width: 74%;
+      }
+    }
+  }
+  .secret .secret_block .secret_item1 {
+    .secret_img {
+      img {
+        width: 74%;
+      }
+    }
+  }
+  .secret_img {
+    img {
+      // width: 83%;
+    }
+  }
+
+  .advantages .advantage_item {
+    flex: 0 0 auto;
+    width: 48%;
+  }
+  .advantages .advantages_block {
+    flex-wrap: wrap;
+  }
+  .advantages .advantages_title {
+    font-size: 37px;
+  }
+  .tarif_subtitle,
+  .tarif_name {
+    position: relative;
+    z-index: 10;
+  }
+  .tarif .tarif_block .tarif_item .tarif_btn a {
+    padding: 23px 56px;
+  }
+  .tarif .tarif_block .tarif_item .tarif_main {
+    padding: 20px;
+  }
+  .tarif .tarif_block .tarif_item {
+    height: 406px;
+  }
+  .document .document_item {
+    width: 18%;
+  }
+  .referal .referal_top {
+    gap: 30px;
+  }
+  .referal .referal_title {
+    color: #222328;
+    font-size: 35px;
+  }
+  .referal .referal_block {
+    padding: 0;
+  }
+  .about .about_advice .about_item1,
+  .about .about_advice .about_item2,
+  .about .about_advice .about_item3,
+  .platform_location {
+    margin: 0;
+    margin-left: 0;
+    margin-bottom: 0;
+  }
+  .platform .white_block {
+    right: 64px;
+  }
+  .about_advice {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-end;
+    gap: 30px;
+  }
+
+  .about .about_advice .about_bottom {
+    flex-direction: column;
+    gap: 35px;
+  }
+  .advice .advice_block .advice_item.advice1 {
+    padding: 25px;
+  }
+  .item_img img {
+    width: 100%;
+  }
+  .advice .advice_block .advice_location_desc {
+    font-size: 18px;
+    margin-bottom: 80px;
+  }
+  .advice .advice_block .advice_item.advice2 .item_img {
+    margin-bottom: 2px;
+  }
+  .advice .advice_block .location_button a {
+    padding: 23px 0;
+    margin-top: 0;
+  }
+  .advice .advice_block .advice_item_desc {
+    font-size: 22px;
+  }
+  .hero .hero_left .hero_left_title,
+  .hero .hero_left .left_bold_title {
+    font-size: 44px;
+  }
+  .hero .hero_left .advantage_item .advan_title {
+    font-size: 16px;
+  }
+  .advice .advice_block .advice_location {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+
+  header .header_menus {
+    gap: 30px;
+  }
+
+  .header_phone-mob {
+    margin-top: 25px;
+  }
+  header .header_phone a {
+    font-size: 20px;
+  }
+
+  header .header_block {
+    padding: 20px 30px;
+  }
+  .hero .hero_left .hero_left_title {
+    margin-bottom: 30px;
+  }
+  .hero .hero_left .hero_left_title,
+  .hero .hero_left .left_bold_title {
+    font-size: 36px;
+  }
+  .hero .hero_left .advantage_item {
+    padding: 5px 15px 5px 7px;
+  }
+  .hero .hero_left {
+    padding: 35px 0 18px 30px;
+  }
+}
+@media (max-width: 1200px) {
+  .container {
+    max-width: 960px;
+  }
+
+  .extra_title {
+    white-space: pre-wrap;
+  }
+  .find .find_block .find_right .find_btn a {
+    padding: 34px 40px;
+  }
+
+  .find_left img {
+    width: 100%;
+  }
+  .service .service_block .service_item {
+    padding: 8px 25px 8px 7px;
+  }
+  #driver_hero .driver_hero_bottom .driver_hero_desc {
+    font-size: 19px;
+  }
+  #driver_hero {
+    .hero_block {
+      flex-direction: column;
+      gap: 20px;
+    }
+  }
+  .hero#hero_partner .hero_left_title {
+    font-size: 46px;
+  }
+  #hero_partner .hero_block {
+    flex-direction: column;
+    align-items: center;
+    gap: 15px;
+  }
+  .secret {
+    padding: 220px 0 140px 0;
+  }
+  #driver_hero .hero_left_title {
+    margin-bottom: 90px;
+    font-size: 31px;
+  }
+  .driver_phone > img {
+    width: 68%;
+  }
+  .find .find_block {
+    padding: 80px 0 110px 0px;
+  }
+  header .header_menus,
+  header .header_left {
+    gap: 17px;
+  }
+  footer .footer_call .call_title {
+    font-size: 40px;
+  }
+  .tarif .tarif_block {
+    flex-wrap: wrap;
+  }
+  footer .footer_call .call_form {
+    width: 400px;
+  }
+  .offer_wrapper .offer_block {
+    flex-direction: column;
+  }
+  .offer_wrapper .offer_item {
+    flex: 0 0 auto;
+    width: 39%;
+  }
+  .document .document_item {
+    padding: 20px 15px 20px 15px;
+  }
+  .offer_arrow {
+    transform: rotate(90deg);
+  }
+  .document .document_title_block {
+    flex-direction: column;
+    gap: 15px;
+    align-items: flex-start;
+  }
+  .tarif .tarif_block .tarif_item {
+    width: 50.1%;
+  }
+  .document .document_item {
+    padding: 22px 20px 20px 25px;
+    width: 22%;
+  }
+  .document {
+    padding-bottom: 90px;
+  }
+  .service .service_block .service_top,
+  .service .service_block .service_bottom {
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    align-items: center;
+  }
+  .item_img img {
+    width: 88%;
+  }
+  .secret .secret_title {
+    font-size: 41px;
+    max-width: 100%;
+    margin-bottom: 55px;
+  }
+  .secret .secret_block {
+    flex-wrap: wrap;
+    justify-content: center;
+    gap: 30px;
+  }
+  .secret .secret_block .secret_left {
+    width: 41.1%;
+  }
+  .crm_item4 {
+    position: relative;
+    z-index: 5;
+  }
+  .safety_section .safety_block .crm_main_top {
+    margin-bottom: 15px;
+  }
+  .crm_section .crm_main_top,
+  .crm_section .crm_bottom {
+    padding: 0;
+    flex-direction: column;
+    gap: 15px;
+    margin-bottom: 15px;
+    position: relative;
+    z-index: 6;
+  }
+  .crm_section .crm_block .crm_rectangle {
+    position: absolute;
+    top: -140px;
+    bottom: 0;
+    width: 91%;
+  }
+  .crm_section .crm_item3 {
+    align-self: flex-start;
+  }
+  .platform .platform_advice .advice_border {
+    margin: 100px 0 0 0;
+  }
+  .crm_section .crm_top {
+    flex-direction: column;
+  }
+
+  .hero .hero_right .form_top_title {
+    font-size: 21px;
+  }
+  .advice .advice_block .advice_item,
+  .advice .advice_block .advice_location {
+    min-height: 380px;
+  }
+  .advice .advice_left_title {
+    font-size: 46px;
+  }
+  .right_img img {
+    width: 100%;
+  }
+}
+@media (max-width: 992px) {
+  .container {
+    max-width: 720px;
+  }
+  .find_left img {
+    width: 75%;
+  }
+  .advice0 .item_img img {
+    width: 83%;
+  }
+  .advice2 .item_img img {
+    width: 103%;
+  }
+
+  .zayavka_modal {
+    border-radius: 30px;
+    max-width: 90%;
+    margin: 0 auto;
+    padding: 20px 20px 35px 20px;
+  }
+  #driver_hero .driver_hero_bottom .driver_apps {
+    flex-direction: column;
+  }
+  #driver_hero .driver_hero_bottom {
+    padding: 30px 40px 37px 30px;
+    gap: 20px;
+  }
+  #driver_hero {
+    .hero_block {
+      align-items: center;
+    }
+    .hero_left {
+      width: 80%;
+    }
+  }
+  .find .find_block {
+    flex-direction: column;
+    gap: 30px;
+  }
+  header .header_menus {
+    gap: 13px;
+    position: fixed;
+    top: 0;
+    right: -100%;
+    display: flex;
+    flex-direction: column;
+    opacity: 0.99;
+    background: #fff;
+    height: 100vh;
+    z-index: 14;
+    width: 45%;
+    align-items: center;
+    padding-top: 50px;
+    transition: all ease-in-out 0.2s;
+    &.active {
+      height: 96%;
+      right: 0;
+      margin: 10px;
+    }
+  }
+  .about .about_block {
+    background-image: url(../images/green_grass.png);
+    padding: 40px 30px 30px 40px;
+  }
+  footer .right_block .right_block_list {
+    margin-bottom: 99px;
+  }
+  footer .footer_right .footer_tel,
+  footer .footer_right .footer_mail {
+    font-size: 26px;
+  }
+  footer .footer_left {
+    gap: 100px;
+  }
+  footer .footer_call {
+    flex-direction: column;
+  }
+  .tarif {
+    padding: 70px 0;
+  }
+  .tarif .tarif_block .tarif_item {
+    width: 42.1%;
+    height: unset;
+  }
+  .offer_wrapper .offer_title {
+    font-size: 43px;
+    margin-bottom: 30px;
+  }
+  .secret .secret_block .secret_item3 {
+    width: 62.4%;
+  }
+
+  .secret {
+    padding: 220px 0 90px 0;
+  }
+  .document .document_block {
+    justify-content: center;
+  }
+  .document .document_item {
+    width: 30%;
+  }
+  .service .service_block {
+    background-size: 153%;
+  }
+  .platform .platform_body {
+    flex-direction: column;
+  }
+  .referal .referal_block {
+    flex-direction: column;
+    gap: 10px;
+  }
+  .referal .referal_item {
+    width: 40%;
+    .referal_img img {
+      width: 100%;
+    }
+  }
+  .referal .referal_arrow {
+    width: 30.7%;
+  }
+  .referal .arrow_img {
+    transform: rotate(90deg);
+  }
+  .about_advice {
+    align-items: center;
+  }
+  .about .about_advice .about_border {
+    padding: 13px 15px 17px 25px;
+    font-size: 16px;
+    line-height: 20px;
+  }
+  .platform_location .location_btn {
+    padding: 23px 0;
+  }
+
+  .about .about_block {
+    padding: 31px 20px 20px 24px;
+  }
+  .about .about_block .platform_top {
+    margin-bottom: 14px;
+  }
+  .platform .grey_block {
+    width: 100%;
+    height: 464px;
+    margin-left: 0;
+  }
+  .platform .platform_block {
+    padding: 40px 30px 30px 30px;
+  }
+  .platform .white_block {
+    right: 0;
+    left: 0;
+    margin: 0 auto;
+  }
+  .hero .hero_left {
+    width: 100%;
+  }
+  .service .service_block .service_iphone img {
+    width: 58%;
+  }
+  .platform .platform_title {
+    font-size: 42px;
+    margin-bottom: 53px;
+  }
+  .partner .partner_block {
+    padding: 0;
+    flex-wrap: wrap;
+    gap: 15px 0;
+  }
+  .partner {
+    padding: 70px 0 80px 0;
+  }
+  .service .service_block .service_item.service_item3 {
+    margin-top: 0px;
+  }
+  .hero .hero_block {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .advice .advice_top {
+    flex-direction: column;
+  }
+  .advice .advice_top_right {
+    width: 95.4%;
+  }
+  .hero .hero_right {
+    width: 80%;
+    margin: 0 auto;
+    gap: 20px;
+  }
+  .advice .advice_block {
+    justify-content: center;
+    flex-wrap: wrap;
+    gap: 20px 0;
+  }
+  .advice .advice_block .advice_item,
+  .advice .advice_block .advice_location {
+    width: calc(49% - 20px);
+  }
+  .hero .hero_right .form_top {
+    gap: 15px;
+    flex-direction: column;
+  }
+  .service {
+    padding: 100px 0;
+    background: linear-gradient(180deg, #f0f3f9 0%, #e6eaf2 94.59%);
+  }
+
+  .form_number img {
+    width: 105%;
+  }
+}
+@media (max-width: 768px) {
+  .container {
+    max-width: 540px;
+  }
+
+  .referal .referal_top {
+    gap: 17px;
+    flex-direction: column;
+  }
+  .advice .advice_block .advice_item {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+  }
+  .advan_img img {
+    width: 100%;
+  }
+  .advantages .advantage_item {
+    height: 380px;
+  }
+  .advantages .advantage_item1 .advan_img,
+  .advantages .advantage_item4 {
+    margin-bottom: 14px;
+    img {
+      width: 70%;
+    }
+  }
+
+ 
+  .advantages .advantage_item .advan_name {
+    font-size: 22px;
+  }
+  #driver_hero .driver_hero_bottom {
+    flex-direction: column;
+  }
+  .extra_item {
+    padding: 10px 60px 10px 50px;
+    align-self: center;
+  }
+  .partner_img img {
+    width: 100%;
+    height: 368px;
+    object-fit: cover;
+  }
+  .index_partner .partner_img img {
+    height: unset;
+  }
+  .driver_phone > img {
+    width: 90%;
+  }
+  #driver_hero .driver_hero_item .driver_text {
+    font-size: 16px;
+    line-height: normal;
+    padding: 19px;
+    padding-top: 5px;
+    padding-bottom: 5px;
+  }
+  .driver_icon img {
+    width: 40px;
+    object-fit: cover;
+  }
+  #driver_hero .hero_block .driver_phone {
+  }
+  #driver_hero .hero_left_title {
+    margin-bottom: 180px;
+  }
+  .find_left {
+    text-align: center;
+    img {
+      width: 49%;
+    }
+  }
+  header .header_menus.active {
+    width: 65%;
+  }
+  footer .footer_left {
+    gap: 50px;
+    flex-direction: column;
+  }
+  .tarif .tarif_top {
+    flex-direction: column;
+    gap: 20px;
+  }
+  .secret .secret_title {
+    font-size: 34px;
+    margin-bottom: 48px;
+  }
+  .tarif .tarif_block .tarif_item {
+    width: 48.1%;
+  }
+  .tarif .tarif_wrapper {
+    margin-bottom: 70px;
+  }
+  .offer_wrapper .offer_item {
+    width: 58%;
+  }
+  .offer_wrapper .offer_title {
+    font-size: 34px;
+    margin-bottom: 30px;
+  }
+  .tarif .tarif_block {
+    gap: 20px 0;
+  }
+  .secret .secret_block .secret_left {
+    width: 67.1%;
+  }
+  .secret .secret_block .secret_item3 {
+    width: 85.4%;
+  }
+  .crm_section .about_border {
+    display: block;
+  }
+  .crm_desc br {
+    display: none;
+  }
+  .crm_section .crm_top {
+    margin-bottom: 25px;
+  }
+  .about_border {
+    font-size: 16px;
+    display: block;
+  }
+  .crm_section .crm_user {
+    margin-right: 0;
+  }
+  .service .service_title {
+    font-size: 36px;
+  }
+  .platform .platform_top {
+    margin-bottom: 60px;
+  }
+  .about {
+    margin-bottom: 70px;
+  }
+  .referal {
+    padding-bottom: 70px;
+  }
+  .referal .referal_arrow {
+    width: 37.7%;
+  }
+  .referal .referal_item {
+    width: 55%;
+  }
+  .platform_top .platform_desc {
+    font-size: 20px;
+  }
+  .hero .hero_right {
+    width: 90%;
+  }
+  .service .service_block .service_form_text,
+  .service .service_block .service_form_text span {
+    font-size: 27px;
+  }
+  .platform .platform_top .platform_desc {
+    font-size: 26px;
+  }
+  .location_img img {
+    width: 70%;
+  }
+  .advice .advice_block .advice_item,
+  .advice .advice_block .advice_location {
+    width: calc(49%);
+  }
+  .advice2 .item_img img {
+    width: 147%;
+  }
+  .advice .advice_block .advice_item.advice2 .item_img {
+    margin-bottom: -20px;
+  }
+  .find .find_block .find_right .find_number {
+    font-size: 120px;
+    text-align: center;
+  }
+}
+@media (max-width: 576px) {
+  .container {
+    max-width: 100%;
+    padding: 0 15px;
+  }
+  .partner_prev,
+  .partner_next {
+    position: absolute;
+    top: 30px;
+    z-index: 10;
+  }
+  .partner_next {
+    right: 0;
+  }
+  .modal_preson img {
+    width: 60%;
+  }
+  .hero#hero_partner .hero_left_title {
+    font-size: 30px;
+    margin-bottom: 40px;
+  }
+  .partner_offer {
+    margin-bottom: 80px;
+  }
+  .zayavka_modal .zayavka_title {
+    font-size: 37px;
+  }
+  .secret#partner_secret,
+  .tarif#partner_tarif {
+    padding: 80px 0 0px 0;
+  }
+  .advantages .advantages_title {
+    font-size: 27px;
+    margin-bottom: 30px;
+  }
+  .advantages .advantage_item1 .advan_img img,
+  .advantages .advantage_item4 img {
+    max-width: 120px;
+  }
+  .advantages .advantage_item2 .advan_img img,
+  .advantages .advantage_item2 img {
+    max-width: 208px;
+  }
+  .advantages .advantage_item3 .advan_img img,
+  .advantages .advantage_item3 img {
+    max-width: 178px;
+  }
+  .advantages .advantage_item {
+    width: 72%;
+  }
+  footer .footer_block {
+    flex-direction: column;
+  }
+  .find .find_block {
+    padding: 25px 0 30px 0px;
+  }
+  .partner_img {
+    text-align: center;
+    img {
+      width: 85%;
+    }
+  }
+  .find .find_block .find_right .find_number {
+    font-size: 65px;
+    font-weight: 600;
+  }
+  footer .footer_call .call_title {
+    font-size: 33px;
+  }
+  footer .footer_call {
+    align-items: center;
+  }
+  footer .footer_left {
+    gap: 20px;
+  }
+  footer .right_block .right_block_list {
+    margin-bottom: 20px;
+  }
+  .extra_item {
+    padding: 10px 60px 10px 60px;
+    align-self: center;
+  }
+  footer .footer_call .call_form .call_send {
+    padding: 24px 0;
+  }
+  .secret_img img {
+    width: 100%;
+  }
+
+  .secret_item2 .secret_img img {
+    width: 77%;
+  }
+  .document .document_item {
+    width: 32%;
+  }
+  .tarif {
+    padding: 62px 0 80px 0;
+  }
+  .secret {
+    padding: 220px 0 65px 0;
+  }
+  .document .document_title_block .document_title {
+    font-size: 32px;
+  }
+  .tarif .tarif_block .tarif_item {
+    width: 73.1%;
+  }
+  .document .document_item {
+    width: 47%;
+  }
+  .document .document_block {
+    flex-wrap: wrap;
+  }
+  .tarif .tarif_block {
+    justify-content: center;
+  }
+  .crm_section .crm_block {
+    padding: 50px 35px 45px 35px;
+  }
+  .secret .secret_button a {
+    padding: 23px 72px;
+  }
+  .secret .secret_block .secret_title {
+    font-size: 21px;
+  }
+  .safety_section .safety_block .take_btn {
+    padding: 23px 48px;
+  }
+
+  
+  .crm_section .about_border {
+    display: block;
+    padding: 8px 16px 11px 31px;
+    line-height: 20px;
+  }
+  .partner .partner_top {
+    flex-direction: column;
+    gap: 10px;
+    margin-bottom: 30px;
+  }
+  .platform .white_block {
+    width: 64%;
+    height: 174px;
+  }
+  .partner {
+    padding: 60px 0 80px 0;
+  }
+  .platform .platform_title {
+    font-size: 37px;
+    margin-bottom: 40px;
+  }
+  .service .service_block .service_btn {
+    padding: 16px 35px;
+  }
+  .hero .hero_right {
+    width: 100%;
+  }
+  .advice .advice_block .advice_item,
+  .advice .advice_block .advice_location {
+    min-height: 341px;
+    width: 100%;
+  }
+  .service .service_block .service_desc {
+    font-size: 18px;
+    line-height: 23px;
+  }
+  .service .service_block .service_item {
+    padding: 8px 16px 10px 7px;
+  }
+  .advice .advice_left_title {
+    font-size: 37px;
+  }
+  .find .find_block .find_right .find_btn {
+    text-align: center;
+    a {
+      padding: 18px 50px;
+    }
+  }
+}
+@media (max-width: 480px) {
+  .container {
+    max-width: 100%;
+    padding: 0 10px;
+  }
+  .safety_submit_title {
+    padding-right: 10px;
+  }
+  .partner_prev,
+  .partner_next {
+    position: absolute;
+    top: 9px;
+    z-index: 10;
+  }
+  .modal_person {
+    text-align: center;
+    img {
+      width: 70%;
+    }
+  }
+  .safety_section .safety_block .safety_submit_title p:first-child {
+    margin-top: 10px;
+  }
+
+
+  .service .service_block .service_form_text {
+    span {
+      &:first-child {
+        margin-top: 10px;
+      }
+    }
+  }
+  .zayavka_modal .modal_person {
+    margin-left: 20px;
+  }
+  .zayavka_modal {
+    padding: 20px;
+  }
+  header .header_block,
+  #driver_hero .driver_hero_bottom {
+    padding: 20px;
+  }
+  #driver_hero .hero_left {
+    border-radius: 30px;
+    padding: 20px;
+  }
+  .advantages .advantage_item {
+    width: 93%;
+    height: 320px;
+  }
+  #driver_hero .hero_block .driver_phone {
+    bottom: -40px;
+    left: 0;
+  }
+  #driver_hero .driver_hero_item {
+    gap: 6px;
+    align-items: flex-start;
+    border-radius: 30px 60px 60px 60px;
+  }
+  .advantages {
+    padding-bottom: 80px;
+  }
+  .advantages .advantage_item1 .advan_img {
+    margin-bottom: 5px;
+  }
+  #driver_hero .driver_wrapper {
+    position: absolute;
+    bottom: 18px;
+    padding-bottom: 0;
+  }
+  .driver_phone > img,
+  #driver_hero .hero_left {
+    width: 100%;
+    height: 530px;
+  }
+  .header_logo {
+    img {
+      width: 90px;
+    }
+  }
+  .advice .advice_block .location_img {
+    top: 39px;
+  }
+  .find .find_block {
+    gap: 20px;
+  }
+  .advice1 .item_img img {
+    width: 78%;
+    margin-left: 63px;
+  }
+  .advice2 .item_img img {
+    margin-top: -29px;
+    width: 87%;
+    margin-bottom: 13px;
+  }
+  .advice .advice_block .advice_item,
+  .advice .advice_block .advice_location {
+    width: 91%;
+    min-height: 300px;
+    height: 300px;
+  }
+  .secret .secret_item {
+    height: 385px;
+  }
+
+  .service .service_block .service_item.service_item1 {
+    margin-top: 120px;
+  }
+
+  .advice .advice_block .advice_item_desc,
+  #driver_hero .driver_hero_bottom .driver_hero_desc,
+  .advice .advice_block .location_button a,
+  .advantages .advantage_item .advan_name {
+    font-size: 18px;
+  }
+  .service {
+    padding: 80px 0;
+  }
+  .referal .referal_title {
+    font-size: 30px;
+  }
+  .secret .secret_block .secret_desc,
+  .advantages .advantage_item .advan_desc {
+    font-size: 15px;
+  }
+  .referal .referal_top {
+    margin-bottom: 40px;
+  }
+  .service .service_title {
+    font-size: 30px;
+    margin-bottom: 74px;
+  }
+  .find .find_block .find_right .find_desc,
+  .find .find_block .find_right .find_btn a {
+    font-size: 16px;
+    text-align: center;
+  }
+  .service .service_block .service_iphone img {
+    width: 70%;
+  }
+  .service .service_block .service_iphone img {
+    top: -126px;
+    right: -15px;
+  }
+  #driver_hero {
+    .partner_img img {
+      width: 100%;
+    }
+  }
+  .partner_img {
+    text-align: center;
+    position: static;
+    img {
+      width: 72%;
+      position: relative;
+      z-index: 10;
+    }
+  }
+  .hero .hero_right .person_img {
+    right: 10px;
+  }
+  .extra_title {
+    white-space: nowrap;
+  }
+  .platform .platform_mini_title {
+    margin-bottom: 20px;
+  }
+  .platform .platform_mini_title,
+  .secret .secret_title {
+    font-size: 14px;
+    font-weight: 600;
+    margin-bottom: 20px;
+    margin-top: 40px;
+  }
+  .platform .platform_block,
+  .crm_section .crm_block {
+    border-radius: 30px;
+    padding: 20px 20px 40px 20px;
+  }
+  .secret .secret_block .secret_left {
+    width: 80%;
+  }
+  .platform .platform_top .platform_desc {
+    font-size: 20px;
+  }
+  .platform .grey_block {
+    height: 164px;
+    border-radius: 30px;
+  }
+  .platform .white_block {
+    height: 115px;
+    border-radius: 30px;
+    bottom: -60px;
+  }
+  .platform_location .location_txt,
+  .referal .referal_name,
+  .crm_section .crm_user .crm_user_title {
+    font-size: 18px;
+  }
+  .referal .referal_arrow {
+    width: 58.7%;
+  }
+  .platform_location .location_btn,
+  .referal .referal_desc {
+    font-size: 16px;
+  }
+  .referal .referal_item {
+    width: 78%;
+  }
+  .about .about_block .platform_top,
+  .crm_section .crm_top .platform_top {
+    margin-bottom: 14px;
+    flex-direction: column;
+    gap: 10px;
+  }
+  .mobile_iphone img {
+    width: 100%;
+  }
+  .platform .platform_advice .advice_border,
+  .about .about_advice .about_border,
+  .crm_section .about_border {
+    padding: 9px 20px;
+    border-radius: 30px 30px 30px 0px;
+    font-size: 15px;
+    line-height: normal;
+  }
+  .about_advice {
+    gap: 20px;
+  }
+  .platform .platform_top {
+    margin-bottom: 30px;
+    gap: 10px;
+    flex-direction: column;
+  }
+  .about_girl {
+    img {
+      width: 40px;
+    }
+  }
+  .crm_section .crm_user {
+    padding: 20px 20px 20px 30px;
+    border-radius: 30px 30px 30px 0px;
+  }
+  .service .service_block .service_desc,
+  .crm_section .crm_top .crm_desc {
+    font-size: 16px;
+    line-height: normal;
+    margin: 0;
+  }
+  .crm_section .crm_user .crm_list li {
+    font-size: 15px;
+    position: relative;
+    z-index: 10;
+  }
+  .crm_user_img {
+    position: absolute;
+    bottom: 15px;
+    right: 15px;
+  }
+  .crm_section .crm_block .crm_rectangle {
+    height: 260px;
+    top: 181px;
+    bottom: unset;
+  }
+  .crm_section .crm_block .crm_rectangle2 {
+    height: 260px;
+    top: 229px;
+    bottom: unset;
+  }
+  .crm_section .crm_main_top {
+    margin-top: 267px;
+  }
+  .extra_img img {
+    width: 30px;
+    object-fit: cover;
+  }
+  #driver_hero .driver_hero_bottom .driver_hero_desc {
+    text-align: center;
+  }
+  .partner .partner_top {
+    align-items: unset;
+  }
+  .service .service_block .service_form_text,
+  .service .service_block .service_form_text span .platform_top .platform_desc,
+  footer .footer_right .footer_tel,
+  footer .footer_right .footer_mail {
+    font-size: 20px;
+  }
+  .service .service_block .service_btn {
+    text-align: center;
+  }
+  .service_top_arrow,
+  .safety_img {
+    display: none;
+  }
+  #driver_hero .driver_hero_bottom {
+    transform: translate(0px, -70px);
+    margin-top: 100px;
+  }
+  .hero#driver_hero {
+    margin-bottom: 0px;
+  }
+  .extra_item {
+    padding: 17px 58px;
+    align-self: self-start;
+    width: 100%;
+    justify-content: center;
+  }
+  .service .service_block .service_form,
+  .safety_section .safety_block .safety_submit {
+    padding: 20px 20px 30px 20px;
+    width: 100%;
+    border-radius: 20px;
+  }
+
+  .safety_section .safety_block .safety_submit_title {
+    margin-bottom: 26px;
+    padding: 0;
+  }
+  header .header_block {
+    border-radius: 0px 0px 30px 30px;
+  }
+  header .header_menus.active {
+    width: 95%;
+  }
+  .service_img img {
+    width: 40px;
+    object-fit: cover;
+  }
+  .advice .advice_top_title,
+  .crm_item4,
+  .document .document_small,
+  footer .footer_call .call_mini_title,
+  footer .right_block .footer_rules,
+  .find .find_block .find_right .find_desc {
+    margin-bottom: 20px;
+  }
+  .footer_rules {
+    margin-top: 50px;
+  }
+  .advice .advice_top,
+  footer .left_block .left_block_img {
+    margin-bottom: 30px;
+  }
+  .advice .advice_right_desc,
+  .safety_section .safety_block .take_btn,
+  .secret .secret_button a,
+  footer .right_block .right_block_list li a,
+  .document .document_title_block .doc_desc {
+    font-size: 16px;
+    width: 100%;
+  }
+  .safety_section .safety_block .take_btn {
+    text-align: center;
+  }
+  .right_block_list li a {
+  }
+  .tarif .tarif_top {
+    align-items: flex-start;
+  }
+  .tarif .tarif_block .tarif_item {
+    width: 97.1%;
+  }
+  .tarif .top_right {
+    padding: 20px;
+    flex-direction: column;
+    gap: 20px;
+  }
+  .document .document_item {
+    width: 77%;
+  }
+
+  .document {
+    padding-bottom: 70px;
+  }
+  .item_img img {
+    width: 100px;
+  }
+  .advice .advice_top_right {
+    flex-direction: column;
+  }
+  .find .find_block .find_right .find_name {
+    text-align: center;
+    margin-bottom: 25px;
+  }
+  .advice .advice_left_title,
+  .tarif .tarif_title,
+  .offer_wrapper .offer_title,
+  footer .footer_call .call_title,
+  .find .find_block .find_right .find_name,
+  .document .document_title_block .document_title {
+    font-size: 30px;
+  }
+  .crm_section .crm_block {
+    background-size: 238%;
+  }
+  header {
+    margin-bottom: 10px;
+  }
+  .hero .hero_left {
+    padding: 20px;
+    background: linear-gradient(180deg, #F19900 0%, #fdfdfd 100%);
+  }
+  .offer_wrapper .offer_item,
+  footer .footer_call .call_form,
+  .call_right,
+  .footer_right {
+    width: 100%;
+  }
+
+  .offer_wrapper .offer_item {
+    width: 78%;
+  }
+  .hero .hero_left .hero_left_title,
+  .hero .hero_left .left_bold_title {
+    font-size: 28px;
+  }
+  .hero .hero_left .left_bold_title {
+    padding: 0 15px 6px 15px;
+  }
+  .hero .hero_left .advantage_item .advan_title {
+    line-height: normal;
+  }
+  .advan_img img {
+    max-width: 40px;
+    object-fit: cover;
+  }
+  #mobile_advan_swiper .advan_img img {
+  }
+  footer .footer_call .call_form input {
+    height: 60px;
+  }
+  .tarif .tarif_block .tarif_item .tarif_name,
+  .tarif .tarif_block .tarif_item .tarif_price {
+    font-size: 20px;
+  }
+  .form_number img {
+    width: 74%;
+  }
+  .tarif .tarif_block .tarif_item .tarif_subtitle {
+    margin-bottom: 116px;
+  }
+  .hero .hero_right .form_top {
+    gap: 5px;
+  }
+  .hero .hero_right .form_top_title,
+  .hero .hero_right .form_desc,
+  .hero .hero_right .right_top_title,
+  footer .footer_call .call_form .call_send,
+  footer .footer_call .tarif .tarif_block .tarif_item .tarif_btn a {
+    font-size: 16px;
+    padding: 23px 86px;
+  }
+  .hero .hero_right .right_top_title {
+    padding: 0;
+  }
+
+  .form_top_title,
+  .form_desc {
+    padding: 23px 0 !important;
+  }
+  footer .footer_call {
+    padding-bottom: 40px;
+    margin-bottom: 50px;
+  }
+  .left_block_img img {
+    width: 110px;
+  }
+  .hero .hero_right .right_bottom {
+    border-radius: 30px;
+    padding: 10px 20px 30px 20px;
+  }
+  .hero .hero_right .form_inputs input {
+    height: 60px;
+  }
+  .hero .hero_right .form_inputs button {
+    padding: 20px 0;
+  }
+  .hero .hero_right .right_top {
+    padding: 30px 20px 170px 20px;
+  }
+  .hero .hero_right {
+    flex-direction: column-reverse;
+  }
+  .hero {
+    margin-bottom: 80px;
+  }
+  .secret .secret_block .secret_title {
+    font-size: 18px;
+  }
+}
+@media (max-width: 355px) {
+  #driver_hero .driver_wrapper {
+    position: absolute;
+    width: 260px;
+  }
+
+  #driver_hero .driver_hero_item .driver_text {
+    padding: 5px;
+  }
+}
