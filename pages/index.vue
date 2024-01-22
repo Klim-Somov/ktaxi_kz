@@ -1039,15 +1039,15 @@
           <div class="tarif_item tarif_item1">
             <div class="tarif_main">
               <p class="tarif_name">Любой оборот</p>
-              <p class="tarif_subtitle">0,5 % от суммы всех платежей, но не менее 10 000 тенге/мес</p>
+              <p class="tarif_subtitle">0,5 % от суммы всех платежей, но не менее 100 000 тенге/мес</p>
               <div class="tarif_img">
                 <img src="../assets/images/tarif1.svg" alt="" />
               </div>
             </div>
             <div class="tarif_bottom">
-              <p class="tarif_price"> 10 000 тенге/мес</p>
+              <p class="tarif_price"> 100 000 тенге/мес</p>
               <div class="tarif_btn">
-                <a @click="openKPModal('Тариф 10 000 тенге. Главная')">Выбрать</a>
+                <a @click="openKPModal('Тариф 100 000 тенге. Главная')">Выбрать</a>
               </div>
             </div>
           </div>

@@ -45,14 +45,14 @@
                   >CRM PayTaxi</NuxtLink
                 >
               </li> -->
-              <li>
+              <!-- <li>
                 <NuxtLink
                   :class="{ menuLinkActive: route.name === 'blog' }"
                   @click="isMenu = false"
                   to="/blog"
                   >Блог</NuxtLink
                 >
-              </li>
+              </li> -->
 
               <div class="header_phone header_phone-mob d-lg-none">
                 <div @click="menuToggle" class="closer">
@@ -197,8 +197,8 @@
               </div>
               <p class="left_block_year">© Paytaxi.ru 2023 г.</p>
               <p class="left_cards">
-                ООО «Доступный город» <br />
-                ИНН 6686079161 <br />
+                ТОО «Лаборатория онлайн сервисов» <br />
+                БИН 220840014539 <br />
                 ОГРН 1169658044742
               </p>
             </div>
@@ -218,18 +218,17 @@
               <img src="../assets/images/visa.png" alt="" />
               <img src="../assets/images/mastercard.png" alt="" />
               <p class="footer_rules">
-                <NuxtLink class="policy" to="/agreement"
+                <a class="policy" target="_blank" href="oferta.pdf"
                   >Пользовательское соглашение
-                </NuxtLink>
+                </a>
                 <br />
-                <NuxtLink class="policy" to="/policy"
-                  >Политика конфиденциальности</NuxtLink
+                <a class="policy" target="_blank" href="policy.pdf"
+                  >Политика конфиденциальности</a
                 >
               </p>
             </div>
           </div>
           <div class="footer_right">
-            <a href="tel:+78006003043" class="footer_tel">+7 (800) 600 30-43</a>
             <a href="mailto:info@paytaxi.ru" class="footer_mail"
               >info@paytaxi.ru</a
             >
@@ -290,19 +289,8 @@
                 </h4>
                 <ul>
                   <li>
-                    ООО "Доступный город" ИНН 6686079161, ОГРН 1169658044742
-                  </li>
-                  <li>
-                    Основной ОКВЭД: 62.01 Разработка компьютерного программного
-                    обеспечения
-                  </li>
-                  <li>Номер в реестре аккредитованных организаций: 21288</li>
-                  <li>
-                    Номер решения о государственной аккредитации:
-                    АО-20220312-3799008502-3
-                  </li>
-                  <li>
-                    Дата решения о государственной аккредитации: 14.03.2022
+                    ТОО «Лаборатория онлайн сервисов» БИН 220840014539, ОГРН
+                    1169658044742
                   </li>
                 </ul>
               </div>
@@ -317,9 +305,6 @@
                 <img src="../assets/images/footer_logo.svg" alt="" />
               </div>
               <div class="footer_right">
-                <a href="tel:+78006003043" class="footer_tel"
-                  >+7 (800) 600 30-43</a
-                >
                 <a href="mailto:info@paytaxi.ru" class="footer_mail"
                   >info@paytaxi.ru</a
                 >
@@ -394,12 +379,12 @@
             </div>
             <div class="right_block">
               <p class="footer_rules">
-                <NuxtLink class="policy" to="/agreement"
+                <a class="policy" target="_blank" href="oferta.pdf"
                   >Пользовательское соглашение
-                </NuxtLink>
+                </a>
                 <br />
-                <NuxtLink class="policy" to="/policy"
-                  >Политика конфиденциальности</NuxtLink
+                <a class="policy" target="_blank" href="policy.pdf"
+                  >Политика конфиденциальности</a
                 >
               </p>
             </div>
@@ -408,8 +393,8 @@
             <p class="left_block_year">© Paytaxi.ru 2023 г.</p>
 
             <p class="left_cards">
-              ООО «Доступный город» <br />
-              ИНН 6686079161 <br />
+              ТОО «Лаборатория онлайн сервисов» <br />
+              БИН 220840014539 <br />
               ОГРН 1169658044742
             </p>
           </div>
@@ -418,17 +403,10 @@
               Информация о видах деятельности
             </h4>
             <ul>
-              <li>ООО "Доступный город" ИНН 6686079161, ОГРН 1169658044742</li>
               <li>
-                Основной ОКВЭД: 62.01 Разработка компьютерного программного
-                обеспечения
+                ТОО «Лаборатория онлайн сервисов» БИН 220840014539, ОГРН
+                1169658044742
               </li>
-              <li>Номер в реестре аккредитованных организаций: 21288</li>
-              <li>
-                Номер решения о государственной аккредитации:
-                АО-20220312-3799008502-3
-              </li>
-              <li>Дата решения о государственной аккредитации: 14.03.2022</li>
             </ul>
           </div>
         </div>
